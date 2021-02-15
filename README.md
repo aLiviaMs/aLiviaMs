@@ -14,7 +14,7 @@ Always studying for self-improvement and extra knowledge to build better codes!
     <tr>
       <td>
         <a href="https://sass-lang.com">
-            <img src="https://i.ibb.co/QmkgbBk/imagem-2021-02-15-201906.png" alt="Sass" border="0">
+            <img src="https://i.ibb.co/QmkgbBk/imagem-2021-02-15-201906.png" alt="Sass" border="0" width:"30px" >
         </a>&ensp;&ensp;&ensp;
         <a href="https://www.javascript.com">
             <img src="https://i.ibb.co/tPyMKWj/javascript-736400-640.png" alt="JavaScript" border="0"/>
