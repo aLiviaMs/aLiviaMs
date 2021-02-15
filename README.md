@@ -3,6 +3,8 @@ I'm an enthusiast UX Design and Front-End Development.
 <br/>
 Always studying for self-improvement and extra knowledge to build better codes!
 
+---
+
 <table width="100%">
   <thead>
     <tr>
@@ -34,3 +36,5 @@ Always studying for self-improvement and extra knowledge to build better codes!
     </tr>
   </tbody>
 </table>
+
+---
