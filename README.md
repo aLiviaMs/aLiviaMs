@@ -5,8 +5,7 @@ Always studying for self-improvement and extra knowledge to build better codes!
 
 ---
 
-<table style="text-align: center; position: absolute;
-width:100%;" >
+<table width:"100%" >
   <thead>
     <tr>
       <th>Learning</th>
