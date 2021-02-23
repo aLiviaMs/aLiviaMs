@@ -9,8 +9,6 @@ Always studying for self-improvement and extra knowledge to build better codes!
     <thead>
       <tr>
         <th>My Stack</th>
-        <th>Learning</th>
-        <th>Next to Learn</th>
       </tr>
     </thead>
     <tbody>
@@ -26,6 +24,16 @@ Always studying for self-improvement and extra knowledge to build better codes!
               <img src="https://i.ibb.co/tPyMKWj/javascript-736400-640.png" alt="JavaScript" border="0" width="30"/>
           </a>&ensp;&ensp;&ensp;
       </tr>
+  </table>
+  <br>
+  <table width:"100%" >
+    <thead>
+      <tr>
+          <th>Learning</th>
+          <th>Next to Learn</th>
+      </tr>
+    </thead>
+    <tbody>
       <tr>
         <td>
           <a href="https://sass-lang.com">
