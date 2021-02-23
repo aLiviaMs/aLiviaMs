@@ -17,10 +17,10 @@ Always studying for self-improvement and extra knowledge to build better codes!
       <tr>
        <td>
           <a href="#">
-              <img src="https://i.ibb.co/4gzjFDm/html5-logo.png" alt="html5-logo" border="0">
+              <img src="https://i.ibb.co/4gzjFDm/html5-logo.png" alt="html5-logo" border="0" width="30">
           </a>&ensp;&ensp;&ensp;
           <a href="#">
-              <img src="https://ibb.co/hLDJWGx" alt="CSS3" border="0" width="30"/>
+              <img src="https://i.ibb.co/2Wg1tz0/CSS3.png" alt="CSS3" border="0" width="30">
           </a>&ensp;&ensp;&ensp;
           <a href="#">
               <img src="https://i.ibb.co/tPyMKWj/javascript-736400-640.png" alt="JavaScript" border="0" width="30"/>
