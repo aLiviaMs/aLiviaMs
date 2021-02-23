@@ -1,5 +1,5 @@
 ### Hi, I'm Lívia👋
-I'm an enthusiast UX Design and Front-End Development.
+I'm an enthusiast of Front-End Development.
 <br/>
 Always studying for self-improvement and extra knowledge to build better codes!
 
@@ -8,11 +8,27 @@ Always studying for self-improvement and extra knowledge to build better codes!
   <table width:"100%" >
     <thead>
       <tr>
+        <th>My Stack</th>
         <th>Learning</th>
         <th>Next to Learn</th>
       </tr>
     </thead>
     <tbody>
+      <tr>
+       <td>
+          <a href="#">
+              <img src="https://i.ibb.co/4gzjFDm/html5-logo.png" alt="html5-logo" border="0">
+          </a>&ensp;&ensp;&ensp;
+          <a href="#">
+              <img src="https://ibb.co/hLDJWGx" alt="CSS3" border="0" width="30"/>
+          </a>&ensp;&ensp;&ensp;
+          <a href="#">
+              <img src="https://i.ibb.co/tPyMKWj/javascript-736400-640.png" alt="JavaScript" border="0" width="30"/>
+          </a>&ensp;&ensp;&ensp;
+          <a href="https://pt-br.reactjs.org/">
+          <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React" border="0" width="30"/>
+          </a> 
+      </tr>
       <tr>
         <td>
           <a href="https://sass-lang.com">
