@@ -25,9 +25,6 @@ Always studying for self-improvement and extra knowledge to build better codes!
           <a href="#">
               <img src="https://i.ibb.co/tPyMKWj/javascript-736400-640.png" alt="JavaScript" border="0" width="30"/>
           </a>&ensp;&ensp;&ensp;
-          <a href="https://pt-br.reactjs.org/">
-          <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React" border="0" width="30"/>
-          </a> 
       </tr>
       <tr>
         <td>
