@@ -1,7 +1,3 @@
-<a href="#">
-  <img src="https://i.ibb.co/MMWHTL8/banner.png" alt="banner" border="0">
-</a>
-
 ## Hi there, I'm [Lívia Minucelli](https://aliviams.github.io/Portfolio/)👋
 
 <p align="left">
