@@ -11,7 +11,7 @@
   Always studying for self-improvement and extra knowledge to build better codes!
 </p>
 
-<p align="right">
+<p align="left">
   I am <strong>available</strong> for freelance and work, contact me through my social networks.
 </p>
 <br />
