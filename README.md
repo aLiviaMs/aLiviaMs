@@ -92,7 +92,7 @@
 </p>
 <br>
 <p align="center">
-  <a href="www.linkedin.com/in/liviamsi" target="_blank">
+  <a href="https://www.linkedin.com/in/líviamsi/" target="_blank">
     <img src="https://i.ibb.co/2sC0pB6/linkedin-redmension.png" alt="Linkedin" title="Linkedin" border="0" />
   </a>
 </p>
