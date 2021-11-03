@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  I am <strong>available</strong> for freelance and work, contact me through my social networks.
+  I am <strong>available</strong> for freelance contact me through my social networks.
 </p>
 <br />
 
