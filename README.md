@@ -52,7 +52,7 @@
     <img src="https://i.ibb.co/WD3shv6/JSON-redmension.png" alt="JSON-redmension" title="JSON" border="0" />
   </a>
   <a href="https://pt-br.reactjs.org/">
-        <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React" border="0" />
+        <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;&ensp;
   <a href="https://sass-lang.com/documentation/syntax">
         <img src="https://i.ibb.co/FsGpytB/scss-redmension.png" alt="scss-redmension" title="SCSS" border="0" />
