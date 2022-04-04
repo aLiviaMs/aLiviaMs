@@ -57,6 +57,10 @@
   <a href="https://sass-lang.com/documentation/syntax">
         <img src="https://i.ibb.co/FsGpytB/scss-redmension.png" alt="scss-redmension" title="SCSS" border="0" />
    </a>
+  <a href="https://www.typescriptlang.org/">
+          <img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript"
+            border="0" />
+  </a>
 </p>
 
 ---
@@ -65,7 +69,6 @@
   <thead>
     <tr>
       <th>Learning</th>
-      <th>Next to Learn</th>
     </tr>
   </thead>
   <tbody>
@@ -80,8 +83,6 @@
         <a href="https://sass-lang.com/documentation/syntax">
           <img src="https://i.ibb.co/FsGpytB/scss-redmension.png" alt="scss-redmension" title="SCSS" border="0" />
         </a>
-      </td>
-      <td>
         <a href="https://www.typescriptlang.org/">
           <img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript"
             border="0" />
