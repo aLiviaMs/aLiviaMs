@@ -1,109 +1,25 @@
-## Hi there, I'm [Lívia Minucelli](https://aliviams.github.io/Portfolio/)👋
+### Hi there 👋, I'm [Livia](https://aliviams.github.io/Portfolio/)
+#### I am a Software Developer 👨‍💻 
+<!-- ![I am a Software Developer 👨‍💻](https://cdn.mos.cms.futurecdn.net/8T62QNGEYmk73Nqp7iMevF.jpg) -->
 
-<p align="left">
-  In love with
-  technology, I'm an enthusiast of UX/UI Design and Front-End Development.
-  <br />
-  Always studying for self-improvement and extra knowledge to build better codes!
-</p>
+I'm a self-taught passionate Software Developer from Brazil 🇧🇷
 
-<p align="left">
-  I am <strong>available</strong> for freelance contact me through my social networks.
-</p>
-<br />
+**About me**
 
-**Work Tools**
+- 💼 Software Developer Junior at [Helpper](https://helpper.com.br/)
+- ❤️ I love writing TypeScript, and building fun experiments on type-level.
+- 📚 Always studying for self-improvement and extra knowledge to build better codes!
+- 💬 I love studying together. Sends me a message so we can code together anytime and make the world a better place to encode ;)
 
-<p>
-</p>
+Skills: ANGULAR / REACT / NODEJS / REACT NATIVE / JS / TS / SCSS
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://i.ibb.co/6ZQCtTp/Git-redmension.png" alt="Git-redmension" title="Git" border="0" />
-  </a>&ensp;&ensp;&ensp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" title="VS Code"
-      border="0" />
-  </a>&ensp;&ensp;&ensp;
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://i.ibb.co/K737QdN/Figma-redmension.png" alt="Figma-redmension" title="Figma" border="0" />
-  </a>&ensp;&ensp;&ensp;
-  <a href="https://www.notion.so/login" target="_blank">
-    <img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" title="Notion" border="0" />
-  </a>
-</p>
+- 🔭 I’m currently working on this page. 
 
-**My Stack**
+<div style="display: flex; flex-direction: row"> 
 
-<p>
-</p>
+</div>
+<img height="177em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLiviaMs&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
 
-<p align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
-    <img src="https://i.ibb.co/Q9x7wn0/html5-redmension.png" alt="html5" title="HTML5" border="0" />
-  </a>&ensp;&ensp;&ensp;
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://i.ibb.co/zZtwrHv/css3-redmension.png" alt="css3" title="CSS3" border="0" />
-  </a>&ensp;&ensp;&ensp;
-  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
-    <img src="https://i.ibb.co/1vZNsFg/ES6-redemension.png" alt="ES6" title="JS" border="0" />
-  </a>&ensp;&ensp;&ensp;
-  <a href="https://www.json.org/json-en.html">
-    <img src="https://i.ibb.co/WD3shv6/JSON-redmension.png" alt="JSON-redmension" title="JSON" border="0" />
-  </a>
-  <a href="https://pt-br.reactjs.org/">
-        <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React" border="0" style="margin-left: 16px"/>
-  </a>&ensp;&ensp;&ensp;
-  <a href="https://sass-lang.com/documentation/syntax">
-        <img src="https://i.ibb.co/FsGpytB/scss-redmension.png" alt="scss-redmension" title="SCSS" border="0" />
-   </a>
-  <a href="https://www.typescriptlang.org/">
-          <img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript"
-            border="0" />
-  </a>
-</p>
+<img height="177em" width="50%" src="https://streak-stats.demolab.com/?user=aLiviaMs&show_icons=true&count_private=true&title_color=ffffff&theme=vue-dark&hide_border=true" />
 
----
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th>Learning</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://nodejs.org/en/">
-          <img src="https://i.ibb.co/7Ns7b5W/node-redmension.png" alt="node-redmension" title="Node.Js" border="0" />
-        </a>&ensp;&ensp;&ensp;
-        <a href="https://pt-br.reactjs.org/">
-          <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React" border="0" />
-        </a>&ensp;&ensp;&ensp;
-        <a href="https://sass-lang.com/documentation/syntax">
-          <img src="https://i.ibb.co/FsGpytB/scss-redmension.png" alt="scss-redmension" title="SCSS" border="0" />
-        </a>
-        <a href="https://www.typescriptlang.org/">
-          <img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript"
-            border="0" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-<p align="center">
-  <strong>Follow me on LinkedIn</strong>
-</p>
-<br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/líviamsi/" target="_blank">
-    <img src="https://i.ibb.co/2sC0pB6/linkedin-redmension.png" alt="Linkedin" title="Linkedin" border="0" />
-  </a>
-</p>
-
-# Take a look at my website
-
-You can find out more about me by clicking [here.](https://aliviams.github.io/Portfolio/)
+![Profile views](https://gpvc.arturio.dev/aLiviaMs)  
