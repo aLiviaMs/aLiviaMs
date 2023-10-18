@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Livia](https://aliviams.github.io/Portfolio/)
+### [Hi there 👋, I'm Livia](https://aliviams.github.io/Portfolio/)
 #### I am a Software Developer 👨‍💻 
 <!-- ![I am a Software Developer 👨‍💻](https://cdn.mos.cms.futurecdn.net/8T62QNGEYmk73Nqp7iMevF.jpg) -->
 
@@ -21,5 +21,3 @@ Skills: ANGULAR / REACT / NODEJS / REACT NATIVE / JS / TS / SCSS / C# / Tailwind
  <img height="177em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLiviaMs&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
 
 <img height="177em" width="50%" src="https://streak-stats.demolab.com/?user=aLiviaMs&show_icons=true&count_private=true&title_color=ffffff&theme=vue-dark&hide_border=true" />
-
-![Profile views](https://gpvc.arturio.dev/aLiviaMs)  
