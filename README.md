@@ -11,7 +11,7 @@ I'm a self-taught passionate Software Developer from Brazil 🇧🇷
 - 📚 Always studying for self-improvement and extra knowledge to build better codes!
 - 💬 I love studying together. Sends me a message so we can code together anytime and make the world a better place to encode ;)
 
-Skills: ANGULAR / REACT / NODEJS / NESTJS / REACT NATIVE / JS / TS / SCSS / C# / Tailwinds
+Skills: ANGULAR / REACT / NODEJS / NESTJS / REACT NATIVE / JS / TS / SCSS / C# / Tailwinds / Cypress
 
 - 🔭 I’m currently working on this page. 
 
