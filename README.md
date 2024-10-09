@@ -16,6 +16,4 @@ Skills: ANGULAR / REACT / NEXTJS / NESTJS / REACT NATIVE / JS / TS / SCSS / C# /
 - 🔭 I’m currently working on this page. 
 
 <div style="display: flex; flex-direction: row"> </div>
-<img height="177em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLiviaMs&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
-
-<img height="177em" width="50%" src="https://streak-stats.demolab.com/?user=aLiviaMs&show_icons=true&count_private=true&title_color=ffffff&theme=vue-dark&hide_border=true" />
+<img height="177em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLiviaMs&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
