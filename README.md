@@ -13,7 +13,5 @@ I'm a self-taught passionate Software Developer from Brazil 🇧🇷
 
 Skills: ANGULAR / REACT / NEXTJS / NESTJS / REACT NATIVE / JS / TS / SCSS / C# / Tailwinds / Cypress / Python
 
-- 🔭 I’m currently working on this page. 
-
 <div style="display: flex; flex-direction: row"> </div>
 <img height="177em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLiviaMs&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
