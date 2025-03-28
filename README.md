@@ -1,6 +1,5 @@
 ### [Hi there 👋, I'm Livia](https://aliviams.github.io/Portfolio/)
-#### I am a Software Developer 👨‍💻 
-<!-- ![I am a Software Developer 👨‍💻](https://cdn.mos.cms.futurecdn.net/8T62QNGEYmk73Nqp7iMevF.jpg) -->
+#### I am a Software Developer 👨‍💻
 
 I'm a self-taught passionate Software Developer from Brazil 🇧🇷
 
